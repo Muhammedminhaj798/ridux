@@ -1,12 +1,10 @@
 import React from 'react'
-import Action from './Action'
-
-
+import Home from './home'
 
 function App() {
   return (
     <div>
-  <Action/>
+        <Home/>
     </div>
   )
 }
